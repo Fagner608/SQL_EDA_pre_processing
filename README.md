@@ -1,6 +1,6 @@
 # SQL_EDA_pre_processing
 
-# Pré-processamento em python, e análise exploratória em SQL de dados sobre influências sobre notas de estudantes [kaggle](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
+# Pré-processamento em python, e análise exploratória de dados em SQL, de influências sobre notas de estudantes [kaggle](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
 Projeto autônomo, visando demonstrar conhecimento teórico e prático nos tópicos descritos abaixo.
 
 
